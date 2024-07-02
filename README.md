@@ -1,2 +1,2 @@
 # The-Winton-Stock-Market-Challenge
-This is a (Kaggle)  British investment management firm's past recruiting competition, I used for learning
+Back ground: this is a Kaggle past recruiting competition; I used the data for enhance my data science skill, the recruiting company is a a British investment management firm call Winton Group.
